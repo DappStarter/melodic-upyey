@@ -1,0 +1,8 @@
+{
+    "name": "Test",
+    "blocks": {
+        "/blockchain/harmony": true,
+        "/blockchain/harmony/solidity": true,
+        "/framework/react": true
+    }
+}
